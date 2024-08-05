@@ -1,3 +1,4 @@
+
 /**
  * @param {"+" | "-" | "*" | "/" | "sq"} operator
  * @param {number} firstNumber
