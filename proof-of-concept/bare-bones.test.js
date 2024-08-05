@@ -1,2 +1,2 @@
-import test from 'vitest'
-test("bare bones test should pass")
+import { expect, test } from "vitest";
+test("bare bones test should pass");
