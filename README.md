@@ -14,7 +14,7 @@ This workshop is all about unit testing! Here's a glimpse of what you'll be achi
 
 Time to dive into action! 🏊‍♂️ Here's what you'll be working on:
 
-### 🎫 Ticket 1 - Installing Vitest
+### 🎫 Ticket 1 - Installing Vitest ✅
 
 Your manager wants you to install and set up Vitest in the `proof-of-concept` project so the team can start writing automated tests. There are no other details provided and your manager is currently unavailable to ask questions. You and your team need to figure things out on your own for now.
 
@@ -32,7 +32,7 @@ Below is how you've started to break the problem down so far:
   - Why: Running Vitest, even without tests written yet, verifies that it is installed correctly and ready for you to start writing actual tests. Since you don't currently have any tests, you'd expect at this stage for the terminal to display something like "no tests found" or anything else that lets you know that Vitest ran.
   - If you're stuck on how to run/execute Vitest, search online for their documentation.
 
-### 🎫 Ticket 2 - Writing a basic test skeleton
+### 🎫 Ticket 2 - Writing a basic test skeleton  ✅
 
 Great work getting Vitest installed and running in the `proof-of-concept` project! The team is excited to start adding test automation.
 
@@ -52,7 +52,7 @@ Your next task is to write the minimum amount of code needed to create and run a
 
 🎯 Knowing how to read and write this sort of test skeleton is going to be a fundamental part of this exercise. Typically you'll have test files containing multiple tests, with each test building on top of this skeleton/structure.
 
-### 🎫 Ticket 3 - Making assertions
+### 🎫 Ticket 3 - Making assertions  ✅
 
 Awesome, you now have your first passing test (although it's not checking anything yet)! You're almost ready to start writing more useful tests, but there's another fundamental concept you need to cover: assertions. Assertions are a key part of why automated testing is useful, as they check if a condition or value is what you expect.
 

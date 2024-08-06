@@ -6,8 +6,8 @@ import { expect, test } from "vitest";
 import { sum } from "/sum.js";
 
 //  create a bare bones test
-test('bare bones test', () => {
-    expect(sum(5,7).toBe(12))
+test('bare bones test 2', () => {
+    expect(sum(5,7)).toBe(12)
 })
 
 //  run Vitest to check that it detects and passes the new test
